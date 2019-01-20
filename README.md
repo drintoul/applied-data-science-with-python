@@ -3,71 +3,89 @@ Cognitive Class Lab Notebooks
 
 ## Area-Plots-Histograms-and-Bar-Charts.ipynb
 
-Exploring Datasets with pandas
-Downloading and Prepping Data
-Visualizing Data using Matplotlib
-Area Plots
-Histograms
-Bar Charts
+<ul>
+<li>Exploring Datasets with pandas
+<li>Downloading and Prepping Data
+<li>Visualizing Data using Matplotlib
+<li>Area Plots
+<li>Histograms
+<li>Bar Charts
+</ul>
 
 ## Data_Wrangling.ipynb
 
-Identify and handle missing values
-Data Standardization
-Data Normalization (centering/scaling)
-Binning
-Indicator Variable
+<ul>
+<li>Identify and handle missing values
+<li>Data Standardization
+<li>Data Normalization (centering/scaling)
+<li>Binning
+<li>Indicator Variable
+</ul>
 
 ## Exploratory_Data_Analysis.ipynb
 
-Analyzing Individual Feature Paterns using Visualization
-Descriptive Statistical Analysis
-Basics of Grouping
-Correlation and Causation
-ANOVA
+<ul>
+<li>Analyzing Individual Feature Paterns using Visualization
+<li>Descriptive Statistical Analysis
+<li>Basics of Grouping
+<li>Correlation and Causation
+<li>ANOVA
+</ul>
 
 ## Generating-Maps-in-Python.ipynb
 
-Exploring Datasets with pandas
-Downloading and Prepping Data
-Introduction to Folium
-Map with Markers
-Choropleth Maps
+<ul>
+<li>Exploring Datasets with pandas
+<li>Downloading and Prepping Data
+<li>Introduction to Folium
+<li>Map with Markers
+<li>Choropleth Maps
+</ul>
 
 ## Introduction-to-Matplotlib-and-Line-Plots.ipynb
 
-Exploring Datasets with pandas
-pandas Basics
-pandas Intermediate: Indexing and Selection
-Visualizing Data using Matplotlib
-Matplotlib: Standard Python Visualization Library
-Line Plots
+<ul>
+<li>Exploring Datasets with pandas
+<li>pandas Basics
+<li>pandas Intermediate: Indexing and Selection
+<li>Visualizing Data using Matplotlib
+<li>Matplotlib: Standard Python Visualization Library
+<li>Line Plots
+</ul>
 
 ## Introduction.ipynb
 
-Data Acquisition
-Basic Insight of Dataset
+<ul>
+<li>Data Acquisition
+<li>Basic Insight of Dataset
+</ul>
 
 ## Model_Development.ipynb
 
-Linear Regression and Multiple Linear Regression
-Model Evaluation using Visualization
-Polynomial Regression and Pipelines
-Measures for In-Sample Evaluation
-Prediction and Decision Making
+<ul>
+<li>Linear Regression and Multiple Linear Regression
+<li>Model Evaluation using Visualization
+<li>Polynomial Regression and Pipelines
+<li>Measures for In-Sample Evaluation
+<li>Prediction and Decision Making
+</ul>
 
 ## Model_Evaluation_and_Refinement.ipynb
 
-Model Evaluation
-Over-fitting, Under-fitting and Model Selection
-Ridge Regression
-Grid Search
+<ul>
+<li>Model Evaluation
+<li>Over-fitting, Under-fitting and Model Selection
+<li>Ridge Regression
+<li>Grid Search
+</ul>
 
 ## Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb
 
-Exploring Datasets with pandas
-Downloading and Prepping Data
-Visualizing Data using Matplotlib
-Waffle Charts
-Word Clouds
-Regression Plots
+<ul>
+<li>Exploring Datasets with pandas
+<li>Downloading and Prepping Data
+<li>Visualizing Data using Matplotlib
+<li>Waffle Charts
+<li>Word Clouds
+<li>Regression Plots
+</ul>
